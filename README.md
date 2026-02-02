@@ -47,15 +47,15 @@ I enjoy turning ideas into real-world projects and continuously upgrading my ski
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Awais748&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="Awais's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Awais748&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Awais748&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=Awais748&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awais748&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awais748&layout=compact&theme=tokyonight" />
 </p>
 
 ---
