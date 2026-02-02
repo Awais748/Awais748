@@ -27,7 +27,7 @@ I love solving problems, creating dynamic user experiences, and continuously lea
 ## 📫 How to Reach Me
 - **Email:** [Awaistariq10111@gmail.com)  
 - **LinkedIn:**  [Awais T](www.linkedin.com/in/awais-tariq-9a2a45374)  
-- **Portfolio:** [https://myportfolio-mu-six-53.vercel.app/) 
+- **Portfolio:** [MyPortfolio](https://myportfolio-mu-six-53.vercel.app/) 
 
 ---
 
