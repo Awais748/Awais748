@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=140&section=header&text=Awais%20Tariq&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=MERN%20Stack%20Developer%20%7C%20Frontend%20Focused&descAlignY=68&descSize=15&fontColor2=8b5cf6" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=140&section=header&text=Awais%20Tariq&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=MERN%20Stack%20Developer%20%7C%20Frontend%20Focused&descAlignY=68&descSize=15" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=8B5CF6&center=true&vCenter=true&width=480&lines=Building+clean+%26+scalable+web+apps+%F0%9F%9A%80;React+%7C+Node.js+%7C+MongoDB+%7C+Express;Always+learning%2C+always+building+%F0%9F%94%A5;Open+to+freelance+%26+collaboration" />
 
@@ -100,17 +100,19 @@ const awais = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Awais748&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Awais748&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%"/>
 
 </div>
 
 ---
 
-## 💬 Random Dev Quote:
+## 💬 Dev Quote:
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="75%"/>
+> *"First, solve the problem. Then, write the code."*
+> 
+> **— John Johnson**
 
 </div>
 
