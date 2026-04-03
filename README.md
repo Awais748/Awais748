@@ -78,8 +78,9 @@ const awais = {
 ## 🔥 Streak Stats:
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Awais748&hide_border=true&background=0d1117&stroke=8b5cf6&ring=8b5cf6&fire=f97316&currStreakLabel=8b5cf6&sideLabels=8b5cf6&dates=c9d1d9&sideNums=ffffff&currStreakNum=ffffff" width="60%" />
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Awais748&hide_border=true&background=0d1117&stroke=8b5cf6&ring=8b5cf6&fire=f97316&currStreakLabel=8b5cf6&sideLabels=8b5cf6&dates=c9d1d9&sideNums=ffffff&currStreakNum=ffffff" alt="GitHub Streak" />
+</a>
 
 </div>
 
