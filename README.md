@@ -63,13 +63,12 @@ const awais = {
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ---
-
 ## 📊 GitHub Stats:
-
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Awais748&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9&rank_icon=github" width="49%" />
-</div>
+<img src="https://github-readme-stats-mu-opal.vercel.app/api?username=Awais748&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" width="49%" />
 
+<img src="https://github-readme-stats-mu-opal.vercel.app/api/top-langs/?username=Awais748&layout=compact&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&langs_count=8" width="40%" />
+</div>
 <br/>
 
 ## 🔥 Streak Stats:
