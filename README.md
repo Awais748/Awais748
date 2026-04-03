@@ -67,7 +67,7 @@ const awais = {
 ## 📊 GitHub Stats:
 
 <div align="center">
-<img src="https://your-vercel-app.vercel.app/api?username=Awais748&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Awais748&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9&rank_icon=github" width="49%" />
 </div>
 
 <br/>
