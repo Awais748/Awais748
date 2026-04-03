@@ -64,6 +64,7 @@ const awais = {
 
 ---
 ## 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <div align="center">
 <img src="https://github-readme-stats-mu-opal.vercel.app/api?username=Awais748&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" width="49%" />
 
