@@ -23,7 +23,7 @@
 
 ```javascript
 const awais = {
-  name       : "Awais Tariq",
+  name       : "Awais",
   role       : "MERN Stack Developer — Frontend Focused",
   education  : "ICS Student (12th Grade) — Computer Science",
   stack      : ["React", "Node.js", "Express", "MongoDB"],
