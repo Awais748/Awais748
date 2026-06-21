@@ -1,3 +1,4 @@
+<img width="1200" height="870" alt="combined" src="https://github.com/user-attachments/assets/1ef5991f-403d-450d-ad73-1e367d33c4b5" />
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Awais748/Awais748/main/assets/combined.svg" width="100%" alt="Awais Tariq — MERN Stack Developer"/>
