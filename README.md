@@ -25,7 +25,7 @@
 const awais = {
   name       : "Awais",
   role       : "MERN Stack Developer — Frontend Focused",
-  education  : "BSCS Student — Virtual University of Pakistan",
+  education  : "BS Data Science Student — Virtual University of Pakistan",
   stack      : ["React", "Node.js", "Express", "MongoDB"],
   goal       : "Build production-level apps & grow as a professional dev",
   funFacts   : ["PUBG Mobile fan 🎮", "Coffee + Code = Productivity ☕", "Clean UI obsessed ⚡"],
