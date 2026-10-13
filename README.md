@@ -25,7 +25,7 @@
 const awais = {
   name       : "Awais",
   role       : "MERN Stack Developer — Frontend Focused",
-  education  : "ICS Student (12th Grade) — Computer Science",
+  education  : "BSCS Student — Virtual University of Pakistan",
   stack      : ["React", "Node.js", "Express", "MongoDB"],
   goal       : "Build production-level apps & grow as a professional dev",
   funFacts   : ["PUBG Mobile fan 🎮", "Coffee + Code = Productivity ☕", "Clean UI obsessed ⚡"],
@@ -89,7 +89,7 @@ const awais = {
 ## 📊 GitHub Stats:
 <div align="center">
 <img src="https://github-readme-stats-mu-opal.vercel.app/api?username=Awais748&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats-mu-opal.vercel.app/api/top-langs/?username=Awais748&layout=compact&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&langs_count=8" width="40%" />
+<img src="https://github-readme-stats-mu-opal.vercel.app/api/top-langs/?username=Awais748&layout=compact&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&langs_count=8&hide=Dockerfile,Batchfile" width="40%" />
 </div>
 
 <br/>
